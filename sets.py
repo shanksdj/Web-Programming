@@ -1,7 +1,7 @@
 #details of sets. Just like Mathmatics only contain unique values and does not repeat value.
 s = set()
 
-s.add(5)
+s.add(50)
 s.add(5)
 s.add(7)
 s.add(9)
